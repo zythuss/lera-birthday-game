@@ -1,0 +1,13 @@
+node_modules/
+dist/
+test-results/
+playwright-report/
+*.log
+# Original photo references and local preview images are not deployment assets.
+/body.png
+/face.png
+/hands.png
+/otkritka.jpg
+/weapon-desktop.png
+/weapon-mobile.png
+/cakes-mobile.png
